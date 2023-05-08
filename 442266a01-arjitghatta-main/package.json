@@ -1,0 +1,26 @@
+{
+  "name": "andy-webserver",
+  "version": "1.0.0",
+  "description": "new webserver",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js --port=5555"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a01-aandime.git"
+  },
+  "author": "aandime",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a01-aandime/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a01-aandime#readme",
+  "keywords": [
+    "\"web\"",
+    "\"server\""
+  ],
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
+}
